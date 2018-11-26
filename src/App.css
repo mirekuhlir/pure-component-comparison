@@ -1,0 +1,7 @@
+.container {
+  margin: 2rem;
+}
+
+.container__item {
+  display: flex;
+}
